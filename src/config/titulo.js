@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Guía práctica en el procedimiento de #[em check-in]'

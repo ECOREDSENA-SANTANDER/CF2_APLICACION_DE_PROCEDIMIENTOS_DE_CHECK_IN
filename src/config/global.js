@@ -1,8 +1,9 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Guía práctica en el procedimiento de check-in',
+    Description:
+      'El eje central de este componente es brindar una guía clara sobre el procedimiento adecuado para el registro, la acomodación y la salida del huésped. Se destacan aspectos clave como la bienvenida, el protocolo de servicio, el diligenciamiento de la tarjeta hotelera, el control de llaves y los horarios establecidos para el uso de la habitación, entre otros. A través de esta guía estructurada, se aprenderán los pasos fundamentales del proceso de #[em check-in].',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
