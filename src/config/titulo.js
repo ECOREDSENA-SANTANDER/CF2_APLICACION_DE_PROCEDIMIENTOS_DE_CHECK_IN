@@ -1,1 +1,1 @@
-module.exports = 'Guía práctica en el procedimiento de #[em check-in]'
+module.exports = 'Guía práctica en el procedimiento de <em>check-in</em>'
