@@ -21,7 +21,6 @@
   100%
     transform: translateY(0px)
   
-
 .banner-principal .tarjeta
   background-position: left 50% !important
 .banner-principal__row .banner-principal__img
@@ -36,8 +35,57 @@ figcaption
 .banner-interno__fondo    
   background-image: url("../assets/curso/portada/banner-interno.png") !important
 
+// viñetas
 
-// bordes, fondos
+.fa-ol
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 20px
+      font-size: 1.4rem
+
+.fa-al
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 19px
+      font-size: 1.4rem
+
+// subtitulo
+
+.subt
+  background-color: #24383F
+  border-radius: 30px
+  padding: -10px -20px
+  width: fit-content
+  position: relative
+  display: flex
+  .ico
+    position: relative
+    margin-left: -12px
+    padding: 0px
+    &:before
+      position: relative
+      border-bottom-right-radius: 40px
+      @media screen and (max-width: 767px)
+        height: 280%
+    img
+      position: relative
+      max-width: 50px
+
+// bordes, fondos, configuración img
+
+.img-t
+  width: auto
+  height: auto
+
+.img-a
+  display: block
+  margin: auto
 
 .borde-redondo
   border-radius: 25px
@@ -61,5 +109,78 @@ figcaption
   border-top-left-radius: 20px
   border-top-right-radius: 20px
 
+.borde-redondo-derecho
+  border-bottom-right-radius: 20px
+  border-top-right-radius: 20px
+
 .bgamarillomate
   background-color: #F4EBDB
+
+.bggrismate
+  background-color: #D2D6D8
+
+.bgverdemate
+  background-color: #B8C3BB
+
+.bgacentocontenido
+  background-color: #4F6A57
+
+.bgcolorprimario
+  background-color: #24383F
+
+.bgespecial1
+  background: url('../assets/curso/t1/fondo1.png')
+  background-repeat: no-repeat
+  background-position: cover
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem    
+
+// temas
+
+.circl-arrow .slyder-f__btn i
+  font-size: 1.2rem
+  background-color: #BB523D
+  color: white
+  height: 46px
+  width: 46px
+  padding: 5px
+  border-radius: 500px
+  display: flex
+  justify-content: center
+  align-items: center
+
+.tarjeta.amarillomate
+  background-color: #F4EBDB
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    background-color: #BB523D
+    background-image: url('../assets/curso/t1/flecha.png')
+    background-size: 13px 10px
+
+.slyder-a__bullets__item
+    background-color: #B8C3BB
+
+.slyder-a__bullets__item--active 
+    background-color: #4F6A57
+    border-color: #4F6A57
+
+// para que los botones no se estiren en mobile
+
+.slyder-a__bullets__item--active 
+
+@media (max-width: 768px) 
+    .slyder-a__bullets__item 
+        width: 11px
+        height: 11px
+        margin: 0px 0.5px
+
+@media (max-width: 768px)  
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    width: 30px
+    height: 30px
+
+// subtitulo
+
+.mover
+  margin-left: 13px
