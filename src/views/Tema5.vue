@@ -48,6 +48,49 @@
       .col-lg-3.col-md-5.col-12
         img(src='@/assets/curso/t5/img3.png', alt='').mb-0
 
+    .row(data-aos="fade-left")
+      .col-sm-6.col-md-12.col-lg-4.mb-4.mb-lg-0
+        .tarjeta--boton.uno.p-4
+          .row.justify-content-end.mb-4
+            .col-auto
+              img(src='@/assets/curso/t5/estrella2.png', alt='Texto que describa la imagen')
+          .row.justify-content-center.mb-4
+            .col-auto
+              img.principal(src='@/assets/curso/t5/tar1blanco.png', alt='Texto que describa la imagen')
+          .row.justify-content-center.align-items-center
+            .col-auto
+              h3.text-center.bgblanco.px-3 Alojamientos con PMS
+          p.px-3.mb-4.mt-3.text-center Los #[em Property Management Systems] (PMS) son softwares especializados en gestión hotelera, que permiten administrar reservas, cancelaciones, registros de huéspedes y el control de habitaciones disponibles u ocupadas. Si el establecimiento cuenta con un PMS, hará parte de este grupo.
+
+      .col-sm-6.col-md-12.col-lg-4.mb-4.mb-lg-0
+        .tarjeta--boton.dos.p-4
+          .row.justify-content-end.mb-4
+            .col-auto
+              img(src='@/assets/curso/t5/estrella2.png', alt='Texto que describa la imagen')
+          .row.justify-content-center.mb-4
+            .col-auto
+              img.principal(src='@/assets/curso/t5/tar2blanco.png', alt='Texto que describa la imagen')
+          .row.justify-content-center.align-items-center
+            .col-auto
+              h3.text-center.bgblanco.px-3 Alojamientos con conexión a internet
+          p.px-3.mb-4.mt-3.text-center Si el alojamiento dispone de conexión a internet permanente, pero no cuenta con un PMS, deberá utilizar directamente la plataforma SIAT en línea.
+          br
+          br
+
+      .col-sm-6.col-md-12.col-lg-4.mb-4.mb-lg-0
+        .tarjeta--boton.tres.p-4
+          .row.justify-content-end.mb-4
+            .col-auto
+              img(src='@/assets/curso/t5/estrella2.png', alt='Texto que describa la imagen')
+          .row.justify-content-center.mb-4
+            .col-auto
+              img.principal(src='@/assets/curso/t5/tar3blanco.png', alt='Texto que describa la imagen')
+          .row.justify-content-center.align-items-center
+            .col-auto
+              h3.text-center.bgblanco.px-3 Alojamientos sin conexión a internet
+          p.px-3.mb-4.mt-3.text-center En caso de no contar con acceso a internet, el establecimiento puede descargar e instalar la versión del SIAT diseñada para funcionar sin conexión.
+          br
+          br
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="fade-right")
       .col-lg-12.col-md-12.col-12
