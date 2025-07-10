@@ -83,21 +83,21 @@
 
           .tarjeta.tarjeta--gris.p-4
             PasosB.color-primario
-              .row.justify-content-center(titulo="Etapa a")
+              .row.justify-content-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h3.mt-4 Mantener el área organizada
                   p.mt-4 El espacio debe estar limpio, ordenado y con el mostrador despejado. Es recomendable tener a la mano formularios, llaves, tarjetas de acceso, folletos informativos y material de bienvenida.
                 .col-md-4
                   img.mt-4(src='@/assets/curso/t2/sly1-1.png', alt='Texto que describa la imagen')
 
-              .row.justify-content-center(titulo="Etapa b")
+              .row.justify-content-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h3.mt-4 Preparación previa
                   p.mt-4 Se debe revisar anticipadamente las reservas del día y verificar toda la información antes de la llegada del huésped.
                 .col-md-4
                   img.mt-4(src='@/assets/curso/t2/sly1-2.png', alt='Texto que describa la imagen')
             
-              .row.justify-content-center(titulo="Etapa c")
+              .row.justify-content-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h3.mt-4 Dar la bienvenida al cliente
                   p.mt-4 Se debe establecer contacto visual, ofrecer una sonrisa genuina y saludar con un tono de voz amable y entusiasta. La presentación puede ser del siguiente modo:
@@ -106,56 +106,56 @@
                 .col-md-4
                   img.mt-4(src='@/assets/curso/t2/sly1-3.png', alt='Texto que describa la imagen')
 
-              .row.justify-content-center(titulo="Etapa d")
+              .row.justify-content-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h3.mt-4 Proceso de #[em check-in]
                   p.mt-4 Confirmar con el cliente los datos y detalles de la reserva: fechas, tipo de habitación, número de noches y el nombre de la persona a la que está registrada. Verificar si la información es correcta.
                 .col-md-4
                   img.mt-4(src='@/assets/curso/t2/sly1-4.png', alt='Texto que describa la imagen')
 
-              .row.justify-content-center(titulo="Etapa e")
+              .row.justify-content-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h3.mt-4 Solicitud de documentación
                   p.mt-4 Explicar brevemente el motivo por el cual se solicita la documentación y proceder a diligenciar la ficha de registro.
                 .col-md-4
                   img.mt-4(src='@/assets/curso/t2/sly1-5.png', alt='Texto que describa la imagen')
 
-              .row.justify-content-center(titulo="Etapa f")
+              .row.justify-content-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h3.mt-4 Garantía de pago
                   p.mt-4 Informar de manera clara y respetuosa sobre la política de solicitud de garantía de pago del establecimiento.
                 .col-md-4
                   img.mt-4(src='@/assets/curso/t2/sly1-6.png', alt='Texto que describa la imagen')
 
-              .row.justify-content-center(titulo="Etapa g")
+              .row.justify-content-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h3.mt-4 Asignación de habitación y entrega de llaves
                   p.mt-4 Entregar la llave o tarjeta de acceso, asegurándose de que funcione correctamente. Confirmar el número de la habitación asignada.
                 .col-md-4
                   img.mt-4(src='@/assets/curso/t2/sly1-7.png', alt='Texto que describa la imagen')
 
-              .row.justify-content-center(titulo="Etapa h")
+              .row.justify-content-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h3.mt-4 Información de servicios adicionales
                   p.mt-4 Brindar al huésped detalles sobre los servicios ofrecidos por el establecimiento, como horarios del desayuno, ubicación del restaurante, clave del wifi, entre otros.
                 .col-md-4
                   img.mt-4(src='@/assets/curso/t2/sly1-8.png', alt='Texto que describa la imagen')
 
-              .row.justify-content-center(titulo="Etapa i")
+              .row.justify-content-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h3.mt-4 Atención a solicitudes especiales
                   p.mt-4 Preguntar si el cliente tiene alguna solicitud adicional o dudas relacionadas con la reserva o los servicios disponibles.
                 .col-md-4
                   img.mt-4(src='@/assets/curso/t2/sly1-9.png', alt='Texto que describa la imagen')
 
-              .row.justify-content-center(titulo="Etapa j")
+              .row.justify-content-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h3.mt-4 Asistencia con equipaje y orientación
                   p.mt-4 Ofrecer ayuda con el equipaje, si el cliente lo considera necesario, y acompañarlo o indicarle claramente la ubicación de su habitación.
                 .col-md-4
                   img.mt-4(src='@/assets/curso/t2/sly1-10.png', alt='Texto que describa la imagen')
 
-              .row.justify-content-center(titulo="Etapa k")
+              .row.justify-content-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h3.mt-4 Despedida cordial
                   p.mt-4 Finalizar el proceso deseando al huésped una feliz estancia, utilizando su nombre o apellido como muestra de atención personalizada.
