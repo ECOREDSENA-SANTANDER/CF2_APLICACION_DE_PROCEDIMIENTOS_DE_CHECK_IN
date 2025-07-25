@@ -169,8 +169,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 Protocolos de atención y servicio al cliente/curso completo
-              p.mb-0 Se invita explorar el siguiente video, donde podrá profundizar sus conocimientos.
+              h4.mb-1 Protocolos de atención y servicio al cliente / curso completo
+              p.mb-0 Se invita a explorar el siguiente video, donde podrá profundizar sus conocimientos.
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=9o5sUuHmB-k" target="_blank")
                 span Ir al sitio
@@ -193,33 +193,33 @@
       .col-sm-12.col-md-12.col-lg-12
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.col-xl-11.m-auto(titulo="Honestidad e integridad")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
               .col-lg-9.col-md-12.col-col-sm-12
                 p.mb-0 Actuar con transparencia en la información brindada sobre los servicios, tarifas y políticas del hotel. Cumplir con los compromisos adquiridos con los huéspedes. Manejar los activos del establecimiento de manera responsable y exclusivamente para fines laborales, evitando el uso personal y cualquier forma de fraude.
               .col-lg-3.col-md-5.col-12
                 img(src='@/assets/curso/t2/ps1-1.png', alt='')
           .row.col-xl-11.m-auto(titulo="Respeto y cortesía con los huéspedes")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
               .col-lg-9.col-md-12.col-col-sm-12
                 p.mb-0 Brindar un trato respetuoso, evitando cualquier práctica discriminatoria por origen, raza, género, orientación sexual, religión o condición económica. Proteger la privacidad de los huéspedes y la información personal manejada en recepción. Escuchar activamente al huésped sin interrupciones y ofrecer soluciones efectivas.
               .col-lg-3.col-md-5.col-12
                 img(src='@/assets/curso/t2/ps1-2.png', alt='')
           .row.col-xl-11.m-auto(titulo="Responsabilidad y profesionalismo")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
               .col-lg-9.col-md-12.col-col-sm-12
                 p.mb-0 Cumplir con los compromisos y tareas asignadas, manteniendo altos estándares de calidad en el servicio. Realizar los procesos de #[em check-in] de forma rápida y precisa para minimizar los tiempos de espera. Mantener una apariencia impecable, emplear un lenguaje adecuado y conservar un tono de voz profesional en todo momento.
               .col-lg-3.col-md-5.col-12
                 img(src='@/assets/curso/t2/ps1-3.png', alt='')
           .row.col-xl-11.m-auto(titulo="Justicia y equidad")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
               .col-lg-9.col-md-12.col-col-sm-12
                 p.mb-0 Tratar a todos los huéspedes con imparcialidad, aplicando de manera uniforme las políticas y procedimientos del establecimiento.
               .col-lg-3.col-md-5.col-12
                 img(src='@/assets/curso/t2/ps1-4.png', alt='')
           .row.col-xl-11.m-auto(titulo="Protección de datos personales")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
               .col-lg-9.col-md-12.col-col-sm-12
-                p.mb-0 Asegurar que la información de los clientes se maneje conforme a las políticas de tratamiento de datos personales, en cumplimiento con la ley 1581 de 2012.
+                p.mb-0 Asegurar que la información de los clientes se maneje conforme a las políticas de tratamiento de datos personales, en cumplimiento con la Ley 1581 de 2012.
               .col-lg-3.col-md-5.col-12
                 img(src='@/assets/curso/t2/ps1-5.png', alt='')
 

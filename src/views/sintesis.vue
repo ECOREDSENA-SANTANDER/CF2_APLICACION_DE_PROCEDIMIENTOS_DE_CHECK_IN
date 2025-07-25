@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p La guía práctica del procedimiento de check-in nos proporciona conocimientos importantes y prácticos, como el protocolo de presentación personal e imagen dentro de la recepción, el servicio al cliente durante la ejecución del turno, el procedimiento para el manejo de la bitácora, el paso a paso en el proceso de check-in, la información adecuada para el registro de los datos del huésped en el sistema de información de alojamiento turístico y en la tarjeta de registro de alojamiento, así como el conocimiento de la normativa de protección de datos y de la ESCCNNA. Además, ofrece información sobre el procedimiento en el sistema de control de llaves.
+    p La guía práctica del procedimiento de #[em check-in] nos proporciona conocimientos importantes y prácticos, como el protocolo de presentación personal e imagen dentro de la recepción, el servicio al cliente durante la ejecución del turno, el procedimiento para el manejo de la bitácora, el paso a paso en el proceso de #[em check-in], la información adecuada para el registro de los datos del huésped en el Sistema de Información de Alojamiento Turístico y en la Tarjeta de Registro de Alojamiento, así como el conocimiento de la normativa de protección de datos y de la ESCCNNA. Además, ofrece información sobre el procedimiento en el sistema de control de llaves.
     
 
     .row.justify-content-center

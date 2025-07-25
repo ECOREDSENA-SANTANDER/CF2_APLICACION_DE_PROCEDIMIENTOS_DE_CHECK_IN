@@ -11,7 +11,7 @@
 
       Separador  
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-        h2 1.1. Porte del uniforme recepción
+        h2 1.1. Porte del uniforme - recepción
 
       .row.bgespecial1.align-items-center.p-2.mb-0(data-aos="fade-down")
 
@@ -77,7 +77,7 @@
                       img.img-a.img-t.mb-4(src='@/assets/curso/t1/ico5.png' alt='')
                   .row.align-items-center.justify-content-center
                     .col-auto.bgacentocontenido
-                      h4.text-center.text-white.mt-1.mb-1 Accesorios limitado y elegantes
+                      h4.text-center.text-white.mt-1.mb-1 Accesorios limitados y elegantes
                   p.text-center.mt-3 La joyería y demás accesorios deben ser discretos y sobrios. Por ejemplo, se permite un reloj sencillo, aretes pequeños o una cadena fina. Si el uniforme incluye bufandas o pañuelos, estos deben llevarse de acuerdo con las indicaciones establecidas.
                 .tarjeta.amarillomate.p-4
                   .row.justify-content-center
@@ -123,17 +123,23 @@
                       h4.mt-4 #[b Cuidado del cabello]
                       p.mt-2 El cabello debe estar siempre limpio y bien peinado. En el caso de las mujeres con cabello largo, generalmente se exige que esté recogido de forma elegante (como moño o coleta baja). Para los hombres, el cabello debe mantenerse corto, ordenado y sin estilos informales.
                     .row.justify-content-center.align-items-center
-                      h4.mt-4 #[b Perfume o loción]
-                      p.mt-2 El uso de fragancias debe ser mínimo o incluso evitarse, ya que algunos huéspedes pueden ser sensibles a los olores fuertes.
-                    .row.justify-content-center.align-items-center
-                      h4.mt-4 #[b Sonrisa y contacto visual]
-                      p.mt-2 Una sonrisa genuina y un contacto visual adecuado son esenciales para causar una primera impresión positiva y transmitir cercanía y confianza.
-                    .row.justify-content-center.align-items-center
                       h4.mt-4 #[b Maquillaje profesional en mujeres]
                       p.mt-2 El maquillaje debe ser discreto y de apariencia natural, resaltando suavemente los rasgos del rostro. En algunos casos, se pueden establecer tonos y niveles de intensidad permitidos.
                     .row.justify-content-center.align-items-center
+                      h4.mt-4 #[b Aseo facial en hombres]
+                      p.mt-2 Se espera un afeitado diario. Si se permite barba o bigote, estos deben estar perfectamente recortados y cuidados, sin dar un aspecto desordenado.
+                    .row.justify-content-center.align-items-center
+                      h4.mt-4 #[b Perfume o loción]
+                      p.mt-2 El uso de fragancias debe ser mínimo o incluso evitarse, ya que algunos huéspedes pueden ser sensibles a los olores fuertes.
+                    .row.justify-content-center.align-items-center
                       h4.mt-4 #[b Manos y uñas]
                       p.mt-2 Las manos deben estar limpias y bien cuidadas. Las uñas deben mantenerse cortas, limpias y, si se usa esmalte, solo en tonos neutros o discretos.
+                    .row.justify-content-center.align-items-center
+                      h4.mt-4 #[b Postura y lenguaje corporal (énfasis en la cortesía)]
+                      p.mt-2 Se debe mantener una postura erguida y profesional. El lenguaje corporal debe transmitir amabilidad, disposición y respeto hacia los huéspedes.
+                    .row.justify-content-center.align-items-center
+                      h4.mt-4 #[b Sonrisa y contacto visual]
+                      p.mt-2 Una sonrisa genuina y un contacto visual adecuado son esenciales para causar una primera impresión positiva y transmitir cercanía y confianza.
 
         .col-lg-5.col-md-7.col-sm-12
           img(src='@/assets/curso/t1/img2.png', alt='')(data-aos="fade-left")

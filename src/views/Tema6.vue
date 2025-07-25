@@ -12,17 +12,17 @@
         :style="{'background-image': `url(${require('@/assets/curso/t6/img1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-4 La tarjeta de registro de alojamiento aplica para todos los prestadores de servicios de alojamiento turístico definidos en la Ley general de turismo y sus modificaciones, así como en el Decreto Único Reglamentario del Sector Comercio, Industria y Turismo, Decreto 1074 de 2015.
+        p.mb-4 La Tarjeta de Registro de Alojamiento aplica para todos los prestadores de servicios de alojamiento turístico definidos en la Ley General de Turismo y sus modificaciones, así como en el Decreto Único Reglamentario del Sector Comercio, Industria y Turismo, Decreto 1074 de 2015.
         br
         br
-        p La Ley 2068 de 2020 modificó la antigua tarjeta de registro hotelero por la tarjeta de registro de alojamiento, y en su artículo 22 dispuso que “los prestadores de servicios de alojamiento turístico deberán llevar el registro de los huéspedes, a través del diligenciamiento de la tarjeta de registro de alojamiento en el sistema que, para todos los efectos, disponga el Gobierno Nacional”.
+        p La Ley 2068 de 2020 modificó la antigua tarjeta de registro hotelero por la Tarjeta de Registro de Alojamiento, y en su artículo 22 dispuso que “los prestadores de servicios de alojamiento turístico deberán llevar el registro de los huéspedes, a través del diligenciamiento de la Tarjeta de Registro de Alojamiento en el sistema que, para todos los efectos, disponga el Gobierno Nacional”.
           br
           br
 
     .row.justify-content-center.align-items-center
       .col-lg-9.col-md-12.col-12
-        p.mb-4 El Ministerio de Comercio, Industria y Turismo tiene la facultad para reglamentar los términos y condiciones de la información contenida en la tarjeta de registro de alojamiento, la cual será remitida al DANE con el fin de elaborar información estadística del sector turístico respecto a los alojamientos, la tasa de ocupación, la cantidad de visitantes, entre otras variables.
-        p.mb-4 El artículo 3 de la Resolución 700 de 2021, “Por la cual se implementa la tarjeta de registro de alojamiento”, establece los tres grupos de prestadores de servicios de alojamiento turístico que se identifican, atendiendo a su capacidad técnica y operativa, así:
+        p.mb-4 El Ministerio de Comercio, Industria y Turismo tiene la facultad para reglamentar los términos y condiciones de la información contenida en la Tarjeta de Registro de Alojamiento, la cual será remitida al DANE con el fin de elaborar información estadística del sector turístico respecto a los alojamientos, la tasa de ocupación, la cantidad de visitantes, entre otras variables.
+        p.mb-4 El artículo 3 de la Resolución 700 de 2021, “Por la cual se implementa la Tarjeta de Registro de Alojamiento”, establece los tres grupos de prestadores de servicios de alojamiento turístico que se identifican, atendiendo a su capacidad técnica y operativa, así:
         .row.bggrismate.borde-redondo
           p.px-5.mt-4 #[b Grupos]
           ul.lista-ul--color.fa-al.px-5.mt-2.mb-2
@@ -40,9 +40,9 @@
 
     Separador  
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 6.1  Diligenciamiento de la tarjeta de registro de alojamiento
+      h2 6.1  Diligenciamiento de la Tarjeta de Registro de Alojamiento
 
-    p.mb-4 Para el diligenciamiento de la tarjeta de registro de alojamiento (TRA), se requiere la información tanto del prestador del servicio como del huésped, incluyendo datos de identificación, fechas de estancia y detalles del alojamiento, entre otros. A continuación, se detallan los campos necesarios:
+    p.mb-4 Para el diligenciamiento de la Tarjeta de Registro de Alojamiento (TRA), se requiere la información tanto del prestador del servicio como del huésped, incluyendo datos de identificación, fechas de estancia y detalles del alojamiento, entre otros. A continuación, se detallan los campos necesarios:
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-md-5.col-12
@@ -72,7 +72,7 @@
                   span.mb-0 #[b Fechas de estancia:] fecha de llegada y fecha de salida.
                 li 
                   i.fas.fa-star
-                  span.mb-0 #[b Detalles de la reserva:] Detalles de la reserva: número de habitación, número de huéspedes y datos adicionales.
+                  span.mb-0 #[b Detalles de la reserva:] número de habitación, número de huéspedes y datos adicionales.
           .row.col-xl-11.m-auto(titulo="Para diligenciar la TRA")
             .row.justify-content-center.align-items-center(data-aos="fade-right")
               ol.lista-ol--cuadro.fa-ol
@@ -105,10 +105,10 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-1 Tarjeta de Registro de Alojamiento - TRA
-                  p.mb-0 Se invita a consultar “El manual para prestadores de servicios de alojamiento turístico (paso a paso en la tarjeta de registro de alojamiento)”.
+                  p.mb-0 Se invita a consultar el "Manual para prestadores de servicios de alojamiento turístico" (paso a paso en la Tarjeta de Registro de Alojamiento)”.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://tramincit.gov.co/tarjeta/media/docs/Manual-Grupo-2-Usuarios-Directos-Conectados.pdf" target="_blank")
-                    span Enlace web
+                    span Ir al sitio
                     i.fas.fa-check-circle
 
     Separador  
@@ -131,9 +131,12 @@
           ul.lista-ul--color.fa-al.px-5
             li 
               i.fas.fa-star
-              span.mb-3 #[b Permiso de ingreso y permanencia (PIP):] Migración Colombia también otorga este permiso a ciudadanos de ciertas nacionalidades que no requieren visa de turismo. El PIP, en la mayoría de los casos, tiene una vigencia de 90 días calendario. Los establecimientos de alojamiento y hospedaje, de acuerdo con las normas migratorias, deben realizar el respectivo registro del hotel, hostal o vivienda turística en la plataforma SIRE de Migración Colombia, la cual lleva el registro oficial de extranjeros en el país.        
+              span.mb-3 #[b Permiso de Ingreso y Permanencia (PIP):] Migración Colombia también otorga este permiso a ciudadanos de ciertas nacionalidades que no requieren visa de turismo. El PIP, en la mayoría de los casos, tiene una vigencia de 90 días calendario. Los establecimientos de alojamiento y hospedaje, de acuerdo con las normas migratorias, deben realizar el respectivo registro del hotel, hostal o vivienda turística en la plataforma SIRE de Migración Colombia, la cual lleva el registro oficial de extranjeros en el país.        
       .col-lg-3.col-md-5.col-12
         img(src="@/assets/curso/t6/img4.png")
+
+    
+    p.mb-5 Los establecimientos de alojamiento y hospedaje, de acuerdo con las normas migratorias, deben realizar el respectivo registro del hotel, hostal o vivienda turística en la plataforma SIRE de Migración Colombia, la cual lleva el registro oficial de extranjeros en el país.
 
     .row.justify-content-center.align-items-end(data-aos="fade")
       .col-lg-4.col-md-6.col-sm-12 
@@ -167,7 +170,7 @@
     #t_6_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 6.3  Equivalencias de documentos  
 
-    p.mb-2 El documento principal requerido para el check-in es un documento de identificación oficial, vigente y con fotografía. Su propósito es verificar la identidad de la persona que se registra y se aloja en el establecimiento, en cumplimiento de la normativa legal y por razones de seguridad, tanto para el establecimiento como para los demás huéspedes.
+    p.mb-2 El documento principal requerido para el #[em check-in] es un documento de identificación oficial, vigente y con fotografía. Su propósito es verificar la identidad de la persona que se registra y se aloja en el establecimiento, en cumplimiento de la normativa legal y por razones de seguridad, tanto para el establecimiento como para los demás huéspedes.
 
     p.mb-4 A continuación, se presentan consideraciones importantes sobre la equivalencia de los documentos:
 
@@ -246,13 +249,13 @@
             PasosB.color-primario
               .row.justify-content-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
-                  h3.mt-4 Permiso de ingreso y permanencia (PIP)
+                  h3.mt-4 Permiso de Ingreso y Permanencia (PIP)
                   p.mt-4 Permiso otorgado por la Unidad Administrativa Especial Migración Colombia al momento de ingresar al país, a los extranjeros que no requieren visa, para períodos de corta estancia y para adelantar labores sin ánimo de lucro. Tiene una vigencia de 180 días calendario.
                 .col-md-4
                   img.mt-4(src='@/assets/curso/t6/p1-1.png', alt='Texto que describa la imagen')
               .row.justify-content-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
-                  h3.mt-4 Permiso de turismo (PT)
+                  h3.mt-4 Permiso de Turismo (PT)
                   p.mt-4 Autorización otorgada por Migración Colombia a ciudadanos extranjeros que pretendan ingresar al territorio nacional para realizar actividades de descanso, esparcimiento, cultura, salud, eventos, convenciones o negocios. Tiene vigencia hasta 90 días calendario.
                 .col-md-4
                   img.mt-4(src='@/assets/curso/t6/p1-2.png', alt='Texto que describa la imagen')
@@ -264,25 +267,25 @@
                   img.mt-4(src='@/assets/curso/t6/p1-3.png', alt='Texto que describa la imagen')
               .row.justify-content-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
-                  h3.mt-4 Permiso especial de permanencia (PEP)
+                  h3.mt-4 Permiso Especial de Permanencia (PEP)
                   p.mt-4 Autorización especial para ciudadanos venezolanos que ingresaron a Colombia antes de 2018.
                 .col-md-4
                   img.mt-4(src='@/assets/curso/t6/p1-4.png', alt='Texto que describa la imagen')
               .row.justify-content-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
-                  h3.mt-4 Permiso de integración y desarrollo (PID)
+                  h3.mt-4 Permiso de Integración y Desarrollo (PID)
                   p.mt-4 Autorización otorgada por Migración Colombia a ciudadanos extranjeros que pretendan ingresar al territorio nacional para realizar diferentes actividades de corta estancia, sin ánimo de lucro, orientadas al fortalecimiento personal, cooperación, gestiones personales y/o académicas.
                 .col-md-4
                   img.mt-4(src='@/assets/curso/t6/p1-6.png', alt='Texto que describa la imagen')
               .row.justify-content-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
-                  h3.mt-4 Permiso otras actividades (POA)
+                  h3.mt-4 Permiso Otras Actividades (POA)
                   p.mt-4 Autorización otorgada por Migración Colombia a ciudadanos extranjeros que requieran ingresar al territorio nacional para realizar actividades de corta estancia diferentes a las descritas en el PID y el PT.
                 .col-md-4
                   img.mt-4(src='@/assets/curso/t6/p1-6.png', alt='Texto que describa la imagen')
               .row.justify-content-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
-                  h3.mt-4 Permiso temporal de permanencia (PTP)
+                  h3.mt-4 Permiso Temporal de Permanencia (PTP)
                   p.mt-4 Autorización administrativa expedida por Migración Colombia a extranjeros cuya nacionalidad no requiera visa y que pretendan extender su permanencia, habiendo usado un permiso de ingreso y permanencia, sin que esta exceda los 180 días (continuos o discontinuos) dentro del mismo año calendario. Tiene vigencia de 180 días calendario.
                 .col-md-4
                   img.mt-4(src='@/assets/curso/t6/p1-7.png', alt='Texto que describa la imagen')
@@ -349,7 +352,7 @@
         .row.bggrismateclaro.p-0
           .col-auto.px-5.mt-5
             h3.bgacentocontenido.text-white.p-1.mb-4 #[b Para tener en cuenta]
-          p.px-5.mb-5.mt-2 Es importante que, durante el registro de check-in en establecimientos de alojamiento, se verifique la identidad del huésped con un documento de identidad con foto, se compare el nombre del huésped con el de la tarjeta de crédito y se mantenga actualizado el sistema de registro con la información correcta.
+          p.px-5.mb-5.mt-2 Es importante que, durante el registro de #[em check-in] en establecimientos de alojamiento, se verifique la identidad del huésped con un documento de identidad con foto, se compare el nombre del huésped con el de la tarjeta de crédito y se mantenga actualizado el sistema de registro con la información correcta.
 
     Separador  
     #t_6_6.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -404,10 +407,10 @@
                       span.mb-0 #[b Servicios incluidos:] el precio de la habitación generalmente incluye el alojamiento y algunos servicios básicos como limpieza diaria.
                     li 
                       i.fas.fa-star
-                      span.mb-0 #[b Servicios adicionales:] otros servicios como desayuno, Wi-Fi, uso de instalaciones (piscina, gimnasio) pueden estar incluidos o tener un costo adicional, lo cual debe especificarse al momento de la reserva.
+                      span.mb-0 #[b Servicios adicionales:] otros servicios como desayuno, wifi, uso de instalaciones (piscina, gimnasio) pueden estar incluidos o tener un costo adicional, lo cual debe especificarse al momento de la reserva.
                     li 
                       i.fas.fa-star
-                      span.mb-0 #[b Formas de pago:] se indican las formas de pago aceptadas (efectivo, tarjetas de crédito/débito).
+                      span.mb-0 #[b Formas de pago:] se indican las formas de pago aceptadas (efectivo, tarjetas de crédito / débito).
                     li 
                       i.fas.fa-star
                       span.mb-0 #[b Impuestos y seguros:] los precios pueden estar sujetos a impuestos (IVA) o seguros hoteleros, los cuales deben ser informados.
@@ -451,7 +454,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/t6/img8.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-4 La Explotación Sexual Comercial de Niñas, Niños y Adolescentes (ESCCNA) es un delito, y el turismo no debe ser una vía para facilitarlo. Los viajes, el turismo y la recreación son actividades que reconocen el valor de la sociedad y de los individuos para el pleno disfrute del tiempo libre. Por esta razón, el Ministerio de Comercio, Industria y Turismo (MinCIT) lucha contra este delito y trabaja continuamente con el sector turístico y su cadena de valor para el reconocimiento, prevención y denuncia, impidiendo que niñas, niños y adolescentes, y en lo posible todas las personas, sean explotadas sexualmente o de cualquier otra forma.
+        p.mb-4 La Explotación Sexual Comercial de Niñas, Niños y Adolescentes (ESCCNA) es un delito, y el turismo no debe ser una vía para facilitarlo. Los viajes, el turismo y la recreación son actividades que reconocen el valor de la sociedad y de los individuos para el pleno disfrute del tiempo libre. Por esta razón, el Ministerio de Comercio, Industria y Turismo (MINCIT) lucha contra este delito y trabaja continuamente con el sector turístico y su cadena de valor para el reconocimiento, prevención y denuncia, impidiendo que niñas, niños y adolescentes, y en lo posible todas las personas, sean explotadas sexualmente o de cualquier otra forma.
         br
         br
         p Los turistas y los prestadores de servicios turísticos deben ser agentes de protección y garantes de los derechos de todas las niñas, niños y adolescentes de los territorios. Tienen la obligación de denunciar este delito ante las autoridades, incluso cuando una persona ofrezca, pregunte o facilite este delito, directa o indirectamente.
@@ -499,7 +502,7 @@
           .row.justify-content-center.mb-4
             .col-auto
               img.principal(src='@/assets/curso/t6/tar1-4.png', alt='Texto que describa la imagen')
-          p.px-1.mb-5.mt-3.text-center.text-white En hoteles que ofrecen servicios de piscina, restaurante, spa, entre otros, para personas que no están alojadas, pero van acompañadas de niñas, niños o adolescentes, es necesario exigir los mismos requisitos para demostrar el parentesco.
+          p.px-1.mb-5.mt-3.text-center.text-white En hoteles que ofrecen servicios de piscina, restaurante, #[em spa], entre otros, para personas que no están alojadas, pero van acompañadas de niñas, niños o adolescentes, es necesario exigir los mismos requisitos para demostrar el parentesco.
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="fade-right")
       .col-lg-12.col-md-12.col-12
@@ -514,7 +517,7 @@
                   p.mb-0 Se invita a consultar el manual de buenas prácticas de turismo responsable para conocer las recomendaciones clave del Ministerio de Comercio, Industria y Turismo (MINCIT).
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://tramincit.gov.co/tarjeta/media/docs/Manual-Grupo-2-Usuarios-Directos-Conectados.pdf" target="_blank")
-                    span Enlace web
+                    span Ir al sitio
                     i.fas.fa-check-circle
 
 </template>

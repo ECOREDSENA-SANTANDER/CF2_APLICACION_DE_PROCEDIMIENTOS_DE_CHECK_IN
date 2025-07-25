@@ -44,11 +44,11 @@
                     span.mb-0 La gerencia se entera de lo sucedido desde el momento de su salida el día anterior hasta su llegada al hotel al día siguiente; a partir de esta información, atiende solicitudes, requisiciones y pendientes, o bien los delega y firma.
                   li 
                     i.fas.fa-star
-                    span.mb-0 El fondo de caja es fijo y rotativo, debe ser recibido y entregado completo sin excepción. en caso de presentarse un faltante, el recepcionista en turno debe estar en capacidad de responder por este, ya que firmó haberlo recibido.
+                    span.mb-0 El fondo de caja es fijo y rotativo, debe ser recibido y entregado completo sin excepción. En caso de presentarse un faltante, el recepcionista en turno debe estar en capacidad de responder por este, ya que firmó haberlo recibido.
               .col-sm-12.col-md-5.col-lg-3
                 figure
                   img(src='@/assets/curso/t3/img2.png', alt='Texto que describa la imagen')
-          .py-4.py-md-5(titulo="Bitácora física 2" :icono="require('@/assets/curso/t3/ico1.png')")
+          .py-4.py-md-5(titulo="Bitácora física 2" :icono="require('@/assets/curso/t3/ico2.png')")
             .row.align-items-center.justify-content-center
               .col-sm-12.col-md-12.col-lg-8.mb-4.mb-md-0
                 h3.mb-4 Objetos olvidados
@@ -66,7 +66,7 @@
               .col-sm-12.col-md-5.col-lg-3
                 figure
                   img(src='@/assets/curso/t3/img3.png', alt='Texto que describa la imagen')
-          .py-4.py-md-5(titulo="Bitácora física 2" :icono="require('@/assets/curso/t3/ico1.png')")
+          .py-4.py-md-5(titulo="Bitácora física 3" :icono="require('@/assets/curso/t3/ico3.png')")
             .row.align-items-center.justify-content-center
               .col-sm-12.col-md-12.col-lg-8.mb-4.mb-md-0
                 h3.mb-4 Registro vehicular
@@ -94,11 +94,11 @@
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    h4.mb-1 Bitácoras de Recepción
+                    h4.mb-1 Bitácoras de recepción
                     p.mb-0 Se invita a explorar los ejemplos de cada bitácora.
                   .col-sm-auto
                     a.boton.color-acento-botones.texto-blanco(href="https://hiconecta.com/ra%C3%ADz/abi-recepci%C3%B3n" target="_blank")
-                      span Enlace web
+                      span Ir al sitio
                       i.fas.fa-check-circle
 
 

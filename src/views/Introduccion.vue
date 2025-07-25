@@ -19,8 +19,8 @@
       .col-auto
         img(src='@/assets/curso/portada/img2_intro.png', alt='').d-none.d-lg-block
       .col.mb-0
-        p El servicio de check-in refleja el profesionalismo del personal de recepción, quien debe llevar a cabo correctamente todos los pasos del registro, manteniendo en todo momento una actitud de escucha activa, calidez y agradecimiento por la preferencia del cliente. Esta atención, brindada con amabilidad, fomenta la fidelización y aumenta las posibilidades de que el huésped vuelva a elegirnos en el futuro.
-        p Por ello, se presenta esta guía, que expone de manera estructurada los procedimientos adecuados para la realización del check-in.
+        p El servicio de #[em check-in] refleja el profesionalismo del personal de recepción, quien debe llevar a cabo correctamente todos los pasos del registro, manteniendo en todo momento una actitud de escucha activa, calidez y agradecimiento por la preferencia del cliente. Esta atención, brindada con amabilidad, fomenta la fidelización y aumenta las posibilidades de que el huésped regrese en el futuro.
+        p Por ello, se presenta esta guía, que expone de manera estructurada los procedimientos adecuados para la realización del #[em check-in].
 
     .row.justify-content-center.align-items-center(data-aos="fade")           
       .col-lg-12

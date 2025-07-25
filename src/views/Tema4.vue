@@ -33,7 +33,7 @@
         img(src='@/assets/curso/t4/img3.png', alt='')
       .col-lg-9.col-md-12.col-sm-12
         p.mb-3.mt-4 Según Sánchez (2013), el proceso de #[em check-in] se realiza de la siguiente manera:
-        p Este proceso comienza con la llegada del huésped al hotel. Debe tenerse en cuenta que, durante el check-in, el huésped se formará la primera impresión del hotel, por lo que el colaborador debe poner todo su empeño para evitar cualquier error que pueda generar una impresión negativa, y procurar, en cambio, causar una percepción positiva. Para lograr este objetivo, es necesario realizar los siguientes procesos con gran cautela:
+        p Este proceso comienza con la llegada del huésped al hotel. Debe tenerse en cuenta que, durante el #[em check-in], el huésped se formará la primera impresión del hotel, por lo que el colaborador debe poner todo su empeño para evitar cualquier error que pueda generar una impresión negativa, y procurar, en cambio, causar una percepción positiva. Para lograr este objetivo, es necesario realizar los siguientes procesos con gran cautela:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-lg-3.col-md-5.col-sm-12
@@ -79,7 +79,7 @@
                     ul.lista-ul--color.fa-al.px-4
                       li 
                         i.fas.fa-star
-                        span.mb-0 Informar sobre servicios adicionales ofrecidos por el hotel, como spa, gimnasio, piscina, entre otros.
+                        span.mb-0 Informar sobre servicios adicionales ofrecidos por el hotel, como #[em spa], gimnasio, piscina, entre otros.
                       li 
                         i.fas.fa-star
                         span.mb-0 Registrar al huésped en una ficha individual.
@@ -115,10 +115,10 @@
               img.img-t.img-a.mb-1(src="@/assets/curso/t3/sitio.png")
             .row.justify-content-center.align-items-center
               .col.mb-3.mb-sm-0
-                p.mb-0.linea Se invita a consultar la Norma Técnica Sectorial Colombiana NTSH-003, correspondiente a la norma de competencia laboral para la prestación del servicio de recepción y reservas, conforme a los manuales establecidos. En particular, se recomienda revisar el numeral 4.1, que describe los requisitos para realizar los procesos de check-in y check-out de huéspedes, de acuerdo con los procedimientos previamente definidos.
+                p.mb-0.linea Se invita a consultar la Norma Técnica Sectorial Colombiana NTSH-003, correspondiente a la norma de competencia laboral para la prestación del servicio de recepción y reservas, conforme a los manuales establecidos. En particular, se recomienda revisar el numeral 4.1, que describe los requisitos para realizar los procesos de #[em check-in] y #[em check-out] de huéspedes, de acuerdo con los procedimientos previamente definidos.
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(href="https://fontur.com.co/sites/default/files/2020-11/NTSH003.pdf" target="_blank").mt-1
-                  span Enlace web
+                  span Ir al sitio
                   i.fas.fa-check-circle
 
     p.mb-4 A continuación, se describen los procedimientos básicos que debe seguir el personal de recepción para garantizar una atención eficiente y organizada al huésped:
@@ -161,32 +161,32 @@
             ul.lista-ul--color.fa-al.px-4.mt-5.mb-4
               li.mt-1
                 i.fas.fa-star
-                span.mb-0 VL: vacío y limpio
+                span.mb-0 VL: vacío y limpio.
               li 
                 i.fas.fa-star
-                span.mb-0 S: salida y sucio
+                span.mb-0 S: salida y sucio.
               li 
                 i.fas.fa-star
-                span.mb-0 O: ocupado
+                span.mb-0 O: ocupado.
           .col-lg-4.col-md-4.col-sm-12
             ul.lista-ul--color.fa-al.px-4.mt-5.mb-4
               li.mt-1
                 i.fas.fa-star
-                span.mb-0 P: preparada o lista para un nuevo cliente
+                span.mb-0 P: preparada o lista para un nuevo cliente.
               li 
                 i.fas.fa-star
-                span.mb-0 ND: no durmió
+                span.mb-0 ND: no durmió.
           .col-lg-4.col-md-4.col-sm-12.mt-5.mb-4
             ul.lista-ul--color.fa-al.px-4
               li.mt-1
                 i.fas.fa-star
-                span.mb-0 F: fuera de servicio
+                span.mb-0 F: fuera de servicio.
               li 
                 i.fas.fa-star
-                span.mb-0 CX: cama extra
+                span.mb-0 CX: cama extra.
               li 
                 i.fas.fa-star
-                span.mb-0 SE: sin equipaje
+                span.mb-0 SE: sin equipaje.
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
         .row.mt-4
@@ -195,7 +195,7 @@
           .col
             h3.mb-1 #[b Informe de ocupación]
         .row
-          p.mt-4 Es la información interna que detalla la disponibilidad y el estado de las habitaciones. El personal de recepción la consulta y actualiza, ya sea a través del sistema o de forma manual en el planning de habitaciones, con el fin de garantizar un proceso de check-in eficiente y mantener un control preciso sobre la ocupación del hotel.
+          p.mt-4 Es la información interna que detalla la disponibilidad y el estado de las habitaciones. El personal de recepción la consulta y actualiza, ya sea a través del sistema o de forma manual en el #[em planning] de habitaciones, con el fin de garantizar un proceso de #[em check-in] eficiente y mantener un control preciso sobre la ocupación del hotel.
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
         .row.mt-4
@@ -212,14 +212,14 @@
               p.mb-0 La mayoría de los establecimientos de alojamiento incluyen dentro de sus políticas una directriz sobre la solicitud de garantías. Esta consiste en preguntar al huésped cuál será el medio de pago con el que desea cubrir los gastos de su estadía durante los días de hospedaje en el establecimiento. Puede tratarse de pago en efectivo, tarjeta de crédito, débito u otro medio disponible por parte del huésped, con el objetivo de respaldar posibles imprevistos que puedan surgir durante su estancia.
                 br
                 br
-                | Estas políticas deben estar claramente definidas y comunicadas al huésped durante el procedimiento de #[em check-in]. Esto incluye el monto de la pre autorización, la aceptación de distintos tipos de tarjetas y el procedimiento a seguir en caso de presentarse inconvenientes con el medio de pago. 
+                | Estas políticas deben estar claramente definidas y comunicadas al huésped durante el procedimiento de #[em check-in]. Esto incluye el monto de la preautorización, la aceptación de distintos tipos de tarjetas y el procedimiento a seguir en caso de presentarse inconvenientes con el medio de pago. 
 
     p.mb-5 La solicitud del medio de pago debe hacerse de forma cortés, explicando brevemente el motivo. Por ejemplo:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-lg-10
         .row.bggrismate.borde-redondo
-          p.p-5.mb-0 “Señor/señora [apellido del huésped], para completar su registro, ¿sería tan amable de informarme cuál será el medio de pago que utilizará para garantizar su estadía y cualquier cargo adicional que pudiera surgir?”
+          p.p-5.mb-0 “Señor / señora [apellido del huésped], para completar su registro, ¿sería tan amable de informarme cuál será el medio de pago que utilizará para garantizar su estadía y cualquier cargo adicional que pudiera surgir?”
 
     p.mb-4 Es fundamental informar al huésped, de manera clara, el propósito de dicha solicitud. Si el cliente elige como medio de pago una tarjeta, se le debe explicar que esta opción generalmente implica lo siguiente:
 
@@ -234,9 +234,9 @@
           .row.col-xl-11.m-auto(titulo="Cargos incidentales")
             .row.justify-content-center.align-items-center(data-aos="fade-right")
                 p.mb-0 Cubre posibles gastos adicionales durante la estadía, como servicio a la habitación, consumo en restaurante o bar, daños a la propiedad, entre otros.
-          .row.col-xl-11.m-auto(titulo="Pre autorización (o retención)")
+          .row.col-xl-11.m-auto(titulo="Preautorización (o retención)")
             .row.justify-content-center.align-items-center(data-aos="fade-right")
-                p.mb-0 El hotel puede realizar una pre autorización por un monto estimado que incluye el valor de la estadía más un adicional por cargos incidentales. Es importante aclarar al huésped que esto no es un cargo efectivo, sino una retención temporal de fondos que será liberada una vez se realice el check-out. El tiempo de liberación puede variar según el banco emisor.
+                p.mb-0 El hotel puede realizar una preautorización por un monto estimado que incluye el valor de la estadía más un adicional por cargos incidentales. Es importante aclarar al huésped que esto no es un cargo efectivo, sino una retención temporal de fondos que será liberada una vez se realice el #[em check-out]. El tiempo de liberación puede variar según el banco emisor.
 
     p En caso de que el huésped opte por pagar en efectivo, se puede solicitar un depósito como garantía. Al finalizar la estadía, se realiza el cruce correspondiente con el valor total de la factura.
 

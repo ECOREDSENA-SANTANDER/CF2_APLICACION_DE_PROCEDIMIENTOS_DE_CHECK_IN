@@ -20,7 +20,7 @@ export default {
       tema: 'Guía práctica en el procedimiento de <em>check-in</em>',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión de los conceptos fundamentales en el  buen desempeño de las actividades dentro del área de recepción.',
+        '<b> Objetivo:</b> evaluar la comprensión de los conceptos fundamentales en el  buen desempeño de las actividades dentro del área de recepción.',
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -34,7 +34,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadeo',
+              texto: 'Verdadero',
               esCorrecta: true,
             },
             {
@@ -56,7 +56,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadeo',
+              texto: 'Verdadero',
               esCorrecta: true,
             },
             {
@@ -102,7 +102,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadeo',
+              texto: 'Verdadero',
               esCorrecta: false,
             },
             {
@@ -125,7 +125,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadeo',
+              texto: 'Verdadero',
               esCorrecta: false,
             },
             {
@@ -148,7 +148,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadeo',
+              texto: 'Verdadero',
               esCorrecta: true,
             },
             {
@@ -165,7 +165,7 @@ export default {
         {
           id: 7,
           texto:
-            '¿Es el permiso de ingreso y permanencia - PIP - una autorización otorgada por Migración Colombia a ciudadanos extranjeros que pretendan ingresar al territorio nacional a realizar actividades de descanso, esparcimiento, cultura con vigencia hasta por 90 días?',
+            '¿Es el Permiso de Ingreso y Permanencia - PIP - una autorización otorgada por Migración Colombia a ciudadanos extranjeros que pretendan ingresar al territorio nacional a realizar actividades de descanso, esparcimiento, cultura con vigencia hasta por 90 días?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -194,7 +194,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadeo',
+              texto: 'Verdadero',
               esCorrecta: true,
             },
             {
@@ -240,7 +240,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadeo',
+              texto: 'Verdadero',
               esCorrecta: false,
             },
             {
@@ -256,7 +256,7 @@ export default {
         },
       ],
       mensaje_final_aprobado:
-        '¡Excelente trabajo! Posee una buena comprensión sobre los conceptos fundamentales para el desarrollo de la actividad dentro del área de recepción, en el marco de la Guía práctica en el procedimiento de <em>check-in</em>. ¡Siga explorando este fascinante mundo de la hotelería!',
+        'Posee una buena comprensión sobre los conceptos fundamentales para el desarrollo de la actividad dentro del área de recepción, en el marco de la Guía práctica en el procedimiento de #[em check-in]. ¡Siga explorando este fascinante mundo de la hotelería!',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },

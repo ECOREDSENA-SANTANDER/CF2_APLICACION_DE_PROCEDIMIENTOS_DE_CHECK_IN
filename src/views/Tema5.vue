@@ -5,14 +5,14 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Tema 5
+      h1 Sistema de Información de Alojamiento Turístico
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade-right").mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/t5/img1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-4 El sistema de información de alojamiento turístico es una herramienta tecnológica diseñada para registrar y gestionar la información de los huéspedes en los establecimientos de alojamiento.
+        p.mb-4 El Sistema de Información de Alojamiento Turístico es una herramienta tecnológica diseñada para registrar y gestionar la información de los huéspedes en los establecimientos de alojamiento.
         br
         br
         p El Ministerio de Comercio, Industria y Turismo (MINCIT) pone a disposición de los prestadores de servicios turísticos una plataforma denominada (SIAT) Sistema de Información de Alojamiento Turístico, que permite a los establecimientos registrar de forma organizada y segura a los huéspedes que se alojan en sus instalaciones.
@@ -60,7 +60,7 @@
           .row.justify-content-center.align-items-center
             .col-auto
               h3.text-center.bgblanco.px-3 Alojamientos con PMS
-          p.px-3.mb-4.mt-3.text-center Los #[em Property Management Systems] (PMS) son softwares especializados en gestión hotelera, que permiten administrar reservas, cancelaciones, registros de huéspedes y el control de habitaciones disponibles u ocupadas. Si el establecimiento cuenta con un PMS, hará parte de este grupo.
+          p.px-3.mb-4.mt-3.text-center Los #[em Property Management Systems] (PMS) son #[em software] especializados en gestión hotelera, que permiten administrar reservas, cancelaciones, registros de huéspedes y el control de habitaciones disponibles u ocupadas. Si el establecimiento cuenta con un PMS, hará parte de este grupo.
 
       .col-sm-6.col-md-12.col-lg-4.mb-4.mb-lg-0
         .tarjeta--boton.dos.p-4
@@ -105,14 +105,14 @@
                   p.mb-0 Se invita a revisar el documento con el paso a paso para instalar el sistema SIAT del Ministerio de Comercio, Industria y Turismo (MINCIT), dirigido a establecimientos de alojamiento con RNT activo.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://tramincit.gov.co/tarjeta/media/docs/1-MANUAL-SIAT-21Abril2022.pdf" target="_blank")
-                    span Enlace web
+                    span Ir al sitio
                     i.fas.fa-check-circle
 
     Separador  
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 5.1  Técnicas de recolección de datos
 
-    p.mb-2 En el proceso de check-in en establecimientos de alojamiento, la recolección de datos es fundamental para el registro de los huéspedes, así como para fines legales, operativos y la mejora de la experiencia del cliente.
+    p.mb-2 En el proceso de #[em check-in] en establecimientos de alojamiento, la recolección de datos es fundamental para el registro de los huéspedes, así como para fines legales, operativos y la mejora de la experiencia del cliente.
     p.mb-4 Algunas técnicas utilizadas para la recolección de datos son las siguientes:
 
     .row.justify-content-center.align-items-center
@@ -173,7 +173,7 @@
                   img(src="@/assets/curso/t5/sly1-2.png")
               .row.justify-content-center.align-items-center
                 .col-lg-7.col-md-12.col-12                  
-                  h3.mt-4.mb-4 Obligaciones de los establecimientos de alojamiento
+                  h3.mt-4.mb-4 Sanciones por incumplimiento
                   ul.lista-ul--color.fa-al
                     li 
                       i.fas.fa-star
@@ -193,11 +193,11 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Política de tratamiento y protección de datos personales
-                  p.mb-0 Para ampliar la información, le invitamos a descargar y consultar el documento Ley 1581 de 2012: Política de Tratamiento y Protección de Datos Personales, disponible en el siguiente enlace:
+                  h4.mb-1 Ley 1581 de 2012 - Protección de datos personales
+                  p.mb-0 Para ampliar la información, le invitamos a descargar y consultar el documento de la Ley 1581 de 2012, por la cual se dictan disposiciones generales para la protección de datos personales.
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(href="https://www.minambiente.gov.co/wp-content/uploads/2024/09/DS-E-GET-01_V5-1R.pdf" target="_blank")
-                    span Enlace web
+                  a.boton.color-acento-botones.texto-blanco(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981" target="_blank")
+                    span Ir al sitio
                     i.fas.fa-check-circle
 
 

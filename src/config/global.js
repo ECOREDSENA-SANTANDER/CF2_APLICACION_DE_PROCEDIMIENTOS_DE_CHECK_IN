@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Guía práctica en el procedimiento de check-in',
+    Name: 'Guía práctica en el procedimiento de <em>check-in</em>',
     Description:
-      'El eje central de este componente es brindar una guía clara sobre el procedimiento adecuado para el registro, la acomodación y la salida del huésped. Se destacan aspectos clave como la bienvenida, el protocolo de servicio, el diligenciamiento de la tarjeta hotelera, el control de llaves y los horarios establecidos para el uso de la habitación, entre otros. A través de esta guía estructurada, se aprenderán los pasos fundamentales del proceso de #[em check-in].',
+      'El eje central de este componente es brindar una guía clara sobre el procedimiento adecuado para el registro, la acomodación y la salida del huésped. Se destacan aspectos clave como la bienvenida, el protocolo de servicio, el diligenciamiento de la tarjeta hotelera, el control de llaves y los horarios establecidos para el uso de la habitación, entre otros. A través de esta guía estructurada, se aprenderán los pasos fundamentales del proceso de <em>check-in</em>.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -36,7 +36,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Protocolo de presentación persona',
+        titulo: 'Protocolo de presentación personal',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -119,7 +119,7 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Servicio al cliente',
+        titulo: 'Tarjeta de Registro de Alojamiento - TRA',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -286,7 +286,7 @@ export default {
     {
       termino: '<em>Planning</em> de habitaciones',
       significado:
-        'Herramienta física o digital que representa todas las habitaciones de un establecimiento, permitiendo gestionar su estado (libre, ocupada, bloqueada, en limpieza, etc.).',
+        'Herramienta física o digital, en forma de panel o casillero, que representa todas las habitaciones de un establecimiento de alojamiento y permite gestionar su estado (libre, ocupada, bloqueada, en limpieza, etc.).',
     },
     {
       termino: 'Protocolo de atención al cliente',
@@ -317,11 +317,6 @@ export default {
   referencias: [
     {
       referencia:
-        'ABI - Recepción. (s. f.). Grupo Hi Intercity. Bitácoras de recepción.',
-      link: 'https://hiconecta.com/ra%C3%ADz/abi-recepci%C3%B3n',
-    },
-    {
-      referencia:
         'Ayala, A., Cortés, A., Cruz, A., Ramírez, D., Rodríguez, A., Rodríguez, C., & Soler, C. (2011). Código ético de los prestadores de servicios de alojamiento inscritos en el registro nacional de turismo, su texto y el proceso de construcción a través de actos de habla. Anuario Turismo y Sociedad, (12), 275–283.',
       link: '',
     },
@@ -332,7 +327,7 @@ export default {
     },
     {
       referencia:
-        'Del Turismo, O. M. (1999). Código ético mundial para el turismo.',
+        'Organización Mundial del Turismo (ONU. (1999). Código ético mundial para el turismo. ',
       link: 'https://www.unwto.org/es/codigo-etico-mundial-para-el-turismo',
     },
     {
@@ -358,9 +353,8 @@ export default {
     },
     {
       referencia:
-        'Ley 1581 de 2012. Política de tratamiento y protección de datos personales – Ministerio de Ambiente y Desarrollo Sostenible. Unidad Administrativa Especial Migración Colombia. Artículo 13. Tipos de permiso de ingreso y permanencia. ',
-      link:
-        'https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/resolucion_uaemc_3167_2019.htm',
+        'Ley 1581 de 2012. Política de tratamiento y protección de datos personales – Ministerio de Ambiente y Desarrollo Sostenible. Unidad Administrativa Especial Migración Colombia. Artículo 13. Tipos de permiso de ingreso y permanencia.',
+      link: '',
     },
     {
       referencia:
@@ -385,7 +379,7 @@ export default {
     },
     {
       referencia:
-        'Mews. (2025). Todo sobre el check-in móvil para hoteles | Guía.',
+        'Mews. (2024). Todo lo que necesitas saber sobre el check-in móvil para hoteles. ',
       link:
         'https://www.mews.com/es/blog/check-in-movil#:~:text=Mews%20es%20la%20opci%C3%B3n%20ideal,check%2Din%20de%20manera%20aut%C3%B3noma',
     },
