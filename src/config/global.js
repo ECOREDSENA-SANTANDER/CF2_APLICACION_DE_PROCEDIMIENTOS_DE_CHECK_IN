@@ -327,11 +327,6 @@ export default {
     },
     {
       referencia:
-        'Organización Mundial del Turismo (ONU. (1999). Código ético mundial para el turismo. ',
-      link: 'https://www.unwto.org/es/codigo-etico-mundial-para-el-turismo',
-    },
-    {
-      referencia:
         'Hotelinking. (s. f.). ¿Qué métodos dispone un hotel para recopilar datos de sus huéspedes? ',
       link:
         'https://www.hotelinking.com/tecnologia/metodos-recopilar-datos-huespedes/#:~:text=Una%20de%20las%20opciones%20m%C3%A1s,de%20fidelizaci%C3%B3n%20y%20ventas%20directas',

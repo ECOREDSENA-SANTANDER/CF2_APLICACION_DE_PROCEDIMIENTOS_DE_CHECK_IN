@@ -15,7 +15,7 @@
         p.mb-4 La Tarjeta de Registro de Alojamiento aplica para todos los prestadores de servicios de alojamiento turístico definidos en la Ley General de Turismo y sus modificaciones, así como en el Decreto Único Reglamentario del Sector Comercio, Industria y Turismo, Decreto 1074 de 2015.
         br
         br
-        p La Ley 2068 de 2020 modificó la antigua tarjeta de registro hotelero por la Tarjeta de Registro de Alojamiento, y en su artículo 22 dispuso que “los prestadores de servicios de alojamiento turístico deberán llevar el registro de los huéspedes, a través del diligenciamiento de la Tarjeta de Registro de Alojamiento en el sistema que, para todos los efectos, disponga el Gobierno Nacional”.
+        p La Ley 2068 de 2020 modificó la antigua tarjeta de registro hotelero por la Tarjeta de Registro de Alojamiento, y en su artículo 22 dispuso que “los prestadores de servicios de alojamiento turístico deberán llevar el registro de los huéspedes, a través del diligenciamiento de la Tarjeta de Registro de Alojamiento en el sistema que, para todos los efectos, disponga el Gobierno Nacional.
           br
           br
 

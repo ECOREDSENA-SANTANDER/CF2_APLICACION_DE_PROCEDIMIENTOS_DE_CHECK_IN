@@ -17,7 +17,7 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Guía práctica en el procedimiento de <em>check-in</em>',
+      tema: 'Guía práctica en el procedimiento de <i>check-in</i>',
       titulo: 'Cuestionario',
       introduccion:
         '<b> Objetivo:</b> evaluar la comprensión de los conceptos fundamentales en el  buen desempeño de las actividades dentro del área de recepción.',
@@ -44,13 +44,13 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de <em>check-in</em> en establecimientos de alojamiento.',
+            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de check-in en establecimientos de alojamiento.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 2,
-          texto: '¿Se le llama <em>check-in</em> al registro de entrada?',
+          texto: '¿Se le llama <i>check-in</i> al registro de entrada?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -66,7 +66,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de <em>check-in</em> en establecimientos de alojamiento.',
+            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de check-in en establecimientos de alojamiento.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -89,7 +89,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de <em>check-in</em> en establecimientos de alojamiento.',
+            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de check-in en establecimientos de alojamiento.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -112,7 +112,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de <em>check-in</em> en establecimientos de alojamiento.',
+            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de check-in en establecimientos de alojamiento.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -135,7 +135,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de <em>check-in</em> en establecimientos de alojamiento.',
+            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de check-in en establecimientos de alojamiento.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -158,7 +158,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de <em>check-in</em> en establecimientos de alojamiento.',
+            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de check-in en establecimientos de alojamiento.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -181,7 +181,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de <em>check-in</em> en establecimientos de alojamiento.',
+            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de check-in en establecimientos de alojamiento.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -204,7 +204,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de <em>check-in</em> en establecimientos de alojamiento.',
+            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de check-in en establecimientos de alojamiento..',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -227,14 +227,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de <em>check-in</em> en establecimientos de alojamiento.',
+            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de check-in en establecimientos de alojamiento.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 10,
           texto:
-            '¿Es la ley 1558 de 2012 la política de  tratamiento y protección de datos personales?',
+            '¿Es la Ley 1558 de 2012 la política de  tratamiento y protección de datos personales?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -250,13 +250,13 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de <em>check-in</em> en establecimientos de alojamiento.',
+            'Ha captado con claridad los conceptos de la Guía práctica en el procedimiento de check-in en establecimientos de alojamiento.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
       ],
       mensaje_final_aprobado:
-        'Posee una buena comprensión sobre los conceptos fundamentales para el desarrollo de la actividad dentro del área de recepción, en el marco de la Guía práctica en el procedimiento de #[em check-in]. ¡Siga explorando este fascinante mundo de la hotelería!',
+        'Posee una buena comprensión sobre los conceptos fundamentales para el desarrollo de la actividad dentro del área de recepción, en el marco de la Guía práctica en el procedimiento de check-in. ¡Siga explorando este fascinante mundo de la hotelería!',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },
