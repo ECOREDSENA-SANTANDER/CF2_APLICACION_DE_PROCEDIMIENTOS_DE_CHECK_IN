@@ -35,7 +35,7 @@
             li 
               i.fas.fa-star
               span.mb-4 Prestadores de servicios de alojamiento turístico que no cuenten con infraestructura tecnológica ni conexión a internet.
-      .col-lg-3.col-md-5.col-12
+      .col-lg-3.col-md-5.col-12.d-none.d-lg-block
         img(src='@/assets/curso/t6/img2.png', alt='')
 
     Separador  
@@ -45,7 +45,7 @@
     p.mb-4 Para el diligenciamiento de la Tarjeta de Registro de Alojamiento (TRA), se requiere la información tanto del prestador del servicio como del huésped, incluyendo datos de identificación, fechas de estancia y detalles del alojamiento, entre otros. A continuación, se detallan los campos necesarios:
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-3.col-md-5.col-12
+      .col-lg-3.col-md-5.col-8.mb-4
         img(src='@/assets/curso/t6/img3.png', alt='')
       .col-lg-9.col-md-12.col-12
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -132,7 +132,7 @@
             li 
               i.fas.fa-star
               span.mb-3 #[b Permiso de Ingreso y Permanencia (PIP):] Migración Colombia también otorga este permiso a ciudadanos de ciertas nacionalidades que no requieren visa de turismo. El PIP, en la mayoría de los casos, tiene una vigencia de 90 días calendario. Los establecimientos de alojamiento y hospedaje, de acuerdo con las normas migratorias, deben realizar el respectivo registro del hotel, hostal o vivienda turística en la plataforma SIRE de Migración Colombia, la cual lleva el registro oficial de extranjeros en el país.        
-      .col-lg-3.col-md-5.col-12
+      .col-lg-3.col-md-5.col-12.d-none.d-lg-block
         img(src="@/assets/curso/t6/img4.png")
 
     
@@ -331,7 +331,7 @@
                 ul.fa-al.mb-0
                   li 
                     i.lista-ul__vineta
-                    span.mb-0 Utilizar sitios #[em web]  de reservas falsos para hacer reservas inexistentes o para obtener precios falsos.   
+                    span.mb-0 Utilizar sitios web de reservas falsos para hacer reservas inexistentes o para obtener precios falsos.   
                   li 
                     i.lista-ul__vineta
                     span.mb-0 Usar promociones o códigos de descuento falsos.
@@ -516,7 +516,7 @@
                   h4.mb-1 Manual de Buenas Prácticas de Turismo Responsable
                   p.mb-0 Se invita a consultar el manual de buenas prácticas de turismo responsable para conocer las recomendaciones clave del Ministerio de Comercio, Industria y Turismo (MINCIT).
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(href="https://tramincit.gov.co/tarjeta/media/docs/Manual-Grupo-2-Usuarios-Directos-Conectados.pdf" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(href="https://portucolombia.mincit.gov.co/portal_turistico_colombia/media/observatorioturistico/Pdf/MANUAL-DE-BUENAS-PRACTICAS.pdf" target="_blank")
                     span Ir al sitio
                     i.fas.fa-check-circle
 

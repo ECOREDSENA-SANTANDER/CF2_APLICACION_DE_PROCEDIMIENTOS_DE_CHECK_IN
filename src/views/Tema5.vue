@@ -24,7 +24,7 @@
       .col-lg-9.col-md-12.col-12
         .row
           p.mb-5 El SIAT tiene como principales objetivos:
-          .col-lg-5.col-md-6.col-12.p-0
+          .col-lg-5.col-md-6.col-12.p-0.d-none.d-lg-block
             img(src='@/assets/curso/t5/img2.png', alt='')
           .col-lg-7.col-md-12.col-sm-12
             .row.bggrismateclaro
@@ -45,7 +45,7 @@
                   i.fas.fa-star
                   span.mb-0 Proporcionar datos a la autoridad estadística nacional (DANE).
           p.mt-3.mb-0 Los establecimientos que cuenten con el Registro Nacional de Turismo (RNT) activo pueden hacer uso del sistema, de acuerdo con el grupo al que pertenezcan según sus condiciones y capacidades tecnológicas:         
-      .col-lg-3.col-md-5.col-12
+      .col-lg-3.col-md-5.col-6.d-none.d-lg-block
         img(src='@/assets/curso/t5/img3.png', alt='').mb-0
 
     .row(data-aos="fade-left")
@@ -116,7 +116,7 @@
     p.mb-4 Algunas técnicas utilizadas para la recolección de datos son las siguientes:
 
     .row.justify-content-center.align-items-center
-      .col-lg-3.col-md-5.col-12
+      .col-lg-3.col-md-5.col-8.mb-4
         img(src='@/assets/curso/t5/img4.png', alt='')
       .col-lg-9.col-md-12.col-12
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")

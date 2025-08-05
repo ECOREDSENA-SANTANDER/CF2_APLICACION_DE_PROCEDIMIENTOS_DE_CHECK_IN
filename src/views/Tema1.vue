@@ -17,9 +17,9 @@
 
         .col-lg-12.col-md-12.col-12.px-lg-5.px-4
       
-          .row.justify-content-center.align-items-center.mb-5
+          .row.justify-content-center.align-items-center.mb-0
 
-            .col-lg-3.col-md-5.col-12
+            .col-lg-3.col-md-5.col-7.mb-3
               img(src='@/assets/curso/t1/img1.png', alt='')
 
             .col-lg-9.col-md-12.col-sm-12
@@ -106,10 +106,10 @@
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
         h2 1.2 Higiene - imagen profesional
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center
         .col-lg-7.col-md-12.col-sm-12
 
-          .row.bgcolorprimario.align-items-center.p-4.py-5
+          .row.bgcolorprimario.align-items-center.p-4.py-5.mb-4
 
             .col-lg-12.col-12.px-lg-5.px-4
               .row.justify-content-center
@@ -141,7 +141,7 @@
                       h4.mt-4 #[b Sonrisa y contacto visual]
                       p.mt-2 Una sonrisa genuina y un contacto visual adecuado son esenciales para causar una primera impresión positiva y transmitir cercanía y confianza.
 
-        .col-lg-5.col-md-7.col-sm-12
+        .col-lg-5.col-md-7.col-7.d-none.d-lg-block
           img(src='@/assets/curso/t1/img2.png', alt='')(data-aos="fade-left")
 
 

@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-12
         figure
-          img(src="@/assets/curso/sintesis.png", alt="Texto alternativo: La guía práctica del check-in aborda el protocolo de atención y presentación, el manejo de la bitácora, el registro correcto de huéspedes y el control de llaves, cumpliendo con la normativa de protección de datos.")
+          img(src="@/assets/curso/sintesis.png", alt="La guía práctica del check-in aborda el protocolo de atención y presentación, el manejo de la bitácora, el registro correcto de huéspedes y el control de llaves, cumpliendo con la normativa de protección de datos.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

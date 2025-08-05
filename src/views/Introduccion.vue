@@ -8,14 +8,14 @@
           i.fas.fa-info
       h1 Introducción
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-left")
-      .col-lg-8.col-md-12.col-sm-12
+    .row.justify-content-center.mb-4(data-aos="fade-down-left")
+      .col-lg-8.col-md-12.col-sm-12.mb-4
         .row.bgamarillomate.borde-redondo.px-4.py-3
           p.mt-3.mb-3 El registro y la acomodación del huésped en un establecimiento de alojamiento son elementos clave para garantizar una experiencia positiva. En este proceso, el personal de recepción desempeña un papel fundamental, aplicando carisma, atención y técnicas de servicio para generar una excelente primera impresión. La calidad del trato, la eficiencia en los procedimientos, la amabilidad y la prontitud en la entrega de la habitación contribuyen a que el huésped se sienta como en casa, poniendo a su disposición todos los servicios del establecimiento y explicando, de forma sutil y respetuosa, las políticas internas.
-      .col-lg-4.col-md-6.col-sm-12
+      .col-lg-4.col-md-8.col-sm-12
         img.mt-2(src='@/assets/curso/portada/img1_intro.png', alt='')
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-right")
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down-right")
       .col-auto
         img(src='@/assets/curso/portada/img2_intro.png', alt='').d-none.d-lg-block
       .col.mb-0

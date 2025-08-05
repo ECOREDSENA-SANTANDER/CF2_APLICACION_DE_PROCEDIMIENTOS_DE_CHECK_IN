@@ -45,7 +45,7 @@
                   li 
                     i.fas.fa-star
                     span.mb-0 El fondo de caja es fijo y rotativo, debe ser recibido y entregado completo sin excepción. En caso de presentarse un faltante, el recepcionista en turno debe estar en capacidad de responder por este, ya que firmó haberlo recibido.
-              .col-sm-12.col-md-5.col-lg-3
+              .col-8.col-md-5.col-lg-3
                 figure
                   img(src='@/assets/curso/t3/img2.png', alt='Texto que describa la imagen')
           .py-4.py-md-5(titulo="Bitácora física 2" :icono="require('@/assets/curso/t3/ico2.png')")
@@ -63,7 +63,7 @@
                   li 
                     i.fas.fa-star
                     span.mb-0 La planificación administrativa debe contemplar la entrega de objetos donados cada 15 días, garantizando el cumplimiento de este proceso.
-              .col-sm-12.col-md-5.col-lg-3
+              .col-8.col-md-5.col-lg-3
                 figure
                   img(src='@/assets/curso/t3/img3.png', alt='Texto que describa la imagen')
           .py-4.py-md-5(titulo="Bitácora física 3" :icono="require('@/assets/curso/t3/ico3.png')")
@@ -81,7 +81,7 @@
                   li 
                     i.fas.fa-star
                     span.mb-0 La bitácora se entrega al vigilante al comenzar el turno, junto con las demás herramientas de trabajo. Se recomienda que el vigilante realice una ronda al menos cada 90 minutos, intercalándola con otras actividades asignadas.
-              .col-sm-12.col-md-5.col-lg-3
+              .col-8.col-md-5.col-lg-3
                 figure
                   img(src='@/assets/curso/t3/img4.png', alt='Texto que describa la imagen')
 

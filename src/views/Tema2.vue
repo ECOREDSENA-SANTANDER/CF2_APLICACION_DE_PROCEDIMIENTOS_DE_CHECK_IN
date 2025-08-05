@@ -28,7 +28,7 @@
         p Es importante diferenciar entre atención y servicio al cliente. La atención al cliente se refiere al trato directo que se le brinda al usuario en cada interacción, donde predominan la cortesía, rapidez, empatía, amabilidad y claridad en la información. Por su parte, el servicio al cliente involucra una estructura más amplia y organizada de procesos que tienen como fin garantizar la satisfacción del cliente de forma consistente y efectiva.
         .row.bggrismate.borde-redondo
           p.p-5.mb-0 El servicio implica no solo disposición para atender, sino también capacidad para resolver con calidad.
-      .col-lg-4.col-md-6.col-sm-12
+      .col-lg-4.col-md-6.col-sm-12.d-none.d-lg-block
         img(src='@/assets/curso/t2/img2.png', alt='')
 
     .row.align-items-center.mb-5.subt(data-aos="fade-right")
@@ -38,7 +38,7 @@
         h2.mb-0.mx-3.text-white El papel del personal en el servicio al cliente
 
     .row.justify-content-center.align-items-center
-      .col-lg-4.col-md-6.col-sm-12
+      .col-lg-4.col-md-6.col-11.mb-3
         img(src='@/assets/curso/t2/img3.png', alt='')
       .col-lg-8.col-md-12.col-sm-12
         p.mb-4 El personal que forma parte de una organización desempeña un rol fundamental. Es esencial que cada integrante comprenda los objetivos institucionales relacionados con el servicio, así como la importancia de alcanzarlos. Un equipo consciente de esto actuará de manera coherente para contribuir a la experiencia positiva del cliente.
@@ -181,7 +181,7 @@
       h2 2.3 La ética del servicio 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
-      .col-lg-3.col-md-5.col-12.p-0
+      .col-lg-3.col-md-12.col-12.p-0.d-none.d-lg-block
         img(src='@/assets/curso/t2/img5.png', alt='')
       .col-lg-9.col-md-12.col-sm-12
         .row.bgverdemateclaro

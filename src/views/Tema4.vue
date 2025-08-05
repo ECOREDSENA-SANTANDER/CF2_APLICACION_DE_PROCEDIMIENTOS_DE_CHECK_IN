@@ -25,18 +25,18 @@
         p.mb-4 El horario de #[em check-in] es determinado por cada establecimiento de manera individual, basándose en sus políticas operativas y en la necesidad de tiempo para la limpieza y preparación de las habitaciones después de la salida del huésped. En la mayoría de los hoteles en Colombia, así como en otros tipos de alojamiento turístico, el horario establecido para el #[em check-in] es a partir de las 3:00 p.m.  Esto no constituye una obligación legal, sino una práctica común en la industria, y puede variar entre diferentes tipos de hoteles o incluso dentro de la misma cadena hotelera.
         .row.bggrismate.borde-redondo
           p.p-5.mb-0 Algunos hoteles pueden ofrecer la posibilidad de realizar un #[em “early check-in”] (ingreso anticipado), si la habitación está disponible antes de la hora establecida. No obstante, este ingreso anticipado puede estar sujeto a un costo adicional.
-      .col-lg-4.col-md-6.col-sm-12
+      .col-lg-4.col-md-6.col-sm-12.d-none.d-lg-block
         img.mt-2(src='@/assets/curso/t4/img2.png', alt='')
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
-      .col-lg-3.col-md-5.col-sm-12
+      .col-lg-3.col-md-9.col-sm-12
         img(src='@/assets/curso/t4/img3.png', alt='')
       .col-lg-9.col-md-12.col-sm-12
         p.mb-3.mt-4 Según Sánchez (2013), el proceso de #[em check-in] se realiza de la siguiente manera:
         p Este proceso comienza con la llegada del huésped al hotel. Debe tenerse en cuenta que, durante el #[em check-in], el huésped se formará la primera impresión del hotel, por lo que el colaborador debe poner todo su empeño para evitar cualquier error que pueda generar una impresión negativa, y procurar, en cambio, causar una percepción positiva. Para lograr este objetivo, es necesario realizar los siguientes procesos con gran cautela:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
-      .col-lg-3.col-md-5.col-sm-12
+      .col-lg-3.col-md-5.col-8
         img(src='@/assets/curso/t4/img4.png', alt='')
       .col-lg-6.col-md-12.col-sm-12.mt-2
         .row.bgcolorprimario.align-items-center.p-4.py-5
@@ -147,7 +147,7 @@
         .row
           p.mt-4 El recepcionista verifica la disponibilidad de la habitación asignada al huésped, así como su estado actual. Además, debe revisar la disponibilidad de otras habitaciones, en caso de que el cliente requiera una adicional.
           p.mt-2 El sistema presenta las habitaciones disponibles, incluyendo aquellas que coinciden con el tipo de habitación reservada, si el establecimiento utiliza un mecanismo sistematizado. En caso de que el control se realice de forma manual, se requiere el reporte del área de ama de llaves o del personal de camareras, el cual contiene información detallada sobre el estado de cada habitación del hotel. Generalmente, este reporte se elabora y se envía a recepción tres veces al día.
-      .col-lg-3.col-md-5.col-12
+      .col-lg-3.col-md-5.col-6
         img(src="@/assets/curso/t4/img5.png")
 
     p.mb-4 Este informe utiliza una serie de claves, que pueden variar según el hotel. Algunas de las más comunes son:
@@ -224,7 +224,7 @@
     p.mb-4 Es fundamental informar al huésped, de manera clara, el propósito de dicha solicitud. Si el cliente elige como medio de pago una tarjeta, se le debe explicar que esta opción generalmente implica lo siguiente:
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-3.col-md-5.col-12
+      .col-lg-3.col-md-5.col-6.mb-4
         img(src='@/assets/curso/t4/img8.png', alt='')
       .col-lg-9.col-md-12.col-12
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")

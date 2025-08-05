@@ -100,7 +100,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Sistema de información de alojamiento turístico',
+        titulo: 'Sistema de Información de Alojamiento Turístico',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -124,7 +124,7 @@ export default {
         subMenu: [
           {
             numero: '6.1',
-            titulo: 'Diligenciamiento de la tarjeta de registro de alojamiento',
+            titulo: 'Diligenciamiento de la Tarjeta de Registro de Alojamiento',
             hash: 't_6_1',
           },
           {
@@ -450,12 +450,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Erika Daniela Manrique Rueda',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

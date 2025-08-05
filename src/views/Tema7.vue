@@ -55,7 +55,8 @@
             li 
               i.fas.fa-star
               span.mb-0 En caso de pérdida de la llave por parte del huésped, se debe seguir un protocolo específico (por ejemplo, desactivar la llave perdida, entregar una nueva llave y, en algunos casos, cobrar una tarifa por la pérdida).
-      .col-lg-3.col-md-5.col-12
+      .col-lg-3.col-md-5.col-12.d-none.d-lg-block
+
         img(src="@/assets/curso/t7/img2.png")
 
 
