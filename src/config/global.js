@@ -100,7 +100,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Sistema de Información de Alojamiento Turístico',
+        titulo: 'Sistema de Información de Alojamiento Turístico (SIAT)',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -124,7 +124,8 @@ export default {
         subMenu: [
           {
             numero: '6.1',
-            titulo: 'Diligenciamiento de la Tarjeta de Registro de Alojamiento',
+            titulo:
+              'Diligenciamiento de la Tarjeta de Registro de Alojamiento (TRA)',
             hash: 't_6_1',
           },
           {
@@ -206,7 +207,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'CF2_63340072_DU.zip',
+        download: 'downloads/CF2_63340072_DU.zip',
       },
       {
         icono: 'fas fa-download',

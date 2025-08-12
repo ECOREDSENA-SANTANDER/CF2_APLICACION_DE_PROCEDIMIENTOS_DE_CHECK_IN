@@ -101,7 +101,7 @@
                 .col-md-6.mb-4.mb-md-0
                   h3.mt-4 Dar la bienvenida al cliente
                   p.mt-4 Se debe establecer contacto visual, ofrecer una sonrisa genuina y saludar con un tono de voz amable y entusiasta. La presentación puede ser del siguiente modo:
-                  p “Bienvenido/a a (nombre del hotel), mi nombre es (nombre del recepcionista). ¿En qué puedo ayudarle hoy?”
+                  p “Bienvenido/a al (nombre del hotel), mi nombre es (nombre del recepcionista). ¿En qué puedo ayudarle hoy?”
                   p Posteriormente, se consulta el nombre bajo el cual fue realizada la reserva.
                 .col-md-4
                   img.mt-4(src='@/assets/curso/t2/sly1-3.png', alt='Texto que describa la imagen')

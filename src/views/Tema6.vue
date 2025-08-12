@@ -40,7 +40,7 @@
 
     Separador  
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 6.1  Diligenciamiento de la Tarjeta de Registro de Alojamiento
+      h2 6.1  Diligenciamiento de la Tarjeta de Registro de Alojamiento (TRA)
 
     p.mb-4 Para el diligenciamiento de la Tarjeta de Registro de Alojamiento (TRA), se requiere la información tanto del prestador del servicio como del huésped, incluyendo datos de identificación, fechas de estancia y detalles del alojamiento, entre otros. A continuación, se detallan los campos necesarios:
 
@@ -54,7 +54,7 @@
               ul.lista-ul--color.fa-al
                 li 
                   i.fas.fa-star
-                  span.mb-0 #[b Número RNT:] es necesario contar con un número de registro nacional de turismo activo para acceder a la TRA.
+                  span.mb-0 #[b Número RNT:] es necesario contar con un número de Registro Nacional de Turismo activo para acceder a la TRA.
                 li 
                   i.fas.fa-star
                   span.mb-0 #[b Datos de contacto:] nombre del prestador, ubicación del alojamiento y datos del contacto.

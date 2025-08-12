@@ -256,7 +256,7 @@ export default {
         },
       ],
       mensaje_final_aprobado:
-        'Posee una buena comprensión sobre los conceptos fundamentales para el desarrollo de la actividad dentro del área de recepción, en el marco de la Guía práctica en el procedimiento de check-in. ¡Siga explorando este fascinante mundo de la hotelería!',
+        'Posee una buena comprensión sobre los conceptos fundamentales para el desarrollo de la actividad dentro del área de recepción, en el marco de la guía práctica en el procedimiento de check-in. ¡Siga explorando este fascinante mundo de la hotelería!',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },

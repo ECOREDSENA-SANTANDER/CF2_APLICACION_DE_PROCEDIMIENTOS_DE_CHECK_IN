@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Sistema de Información de Alojamiento Turístico
+      h1 Sistema de Información de Alojamiento Turístico (SIAT)
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade-right").mb-5
       .bloque-texto-g__img(
