@@ -23,7 +23,7 @@
               img(src='@/assets/curso/t1/img1.png', alt='')
 
             .col-lg-9.col-md-12.col-sm-12
-              SlyderF.circl-arrow.mb-4(columnas="col-lg-6 col-xl-5")
+              SlyderF.circl-arrow.mb-4(columnas="col-lg-6 col-xl-6")
                 .tarjeta.amarillomate.p-4
                   .row.justify-content-center
                     .col-auto
